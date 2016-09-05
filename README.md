@@ -10,7 +10,8 @@ This project is under construction, all codes are work in progress.
  - Repository : https://github.com/DataPaulette/LoomHack/
 
 **This version (LoomHack V1) implement a processing software that controls the LEDs sticked on the loom**
-Cette vession implémante un logiciel pilote codé avec processing.
+
+Cette version implémente un logiciel pilote qui permet de contrôler les LEDs colées sur le métier à tisser
 
 
 #TODO
