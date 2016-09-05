@@ -3,6 +3,8 @@
 ## Metier à tisser assisté par ordinateur
 ## Hack of a 24 shafts ARM Loom
 
+![alt tag](http://wiki.datapaulette.org/lib/exe/fetch.php/atelier/documentation/outillage/dscf0970_2.jpg?w=500&tok=066fe5)
+
 This project is under construction, all codes are work in progress. 
 
  - Date : 05/13/2016
